@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "eee",
+      "author": "eee",
+      "image": "ee",
+      "text": "eee",
+      "id": 1
+    },
+    {
+      "title": "sss",
+      "author": "sss",
+      "image": "ss",
+      "text": "ssss",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

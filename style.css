@@ -1,0 +1,58 @@
+header {
+    background-color: #6950A1;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.img1 {
+    margin-left: 20px;
+}
+
+.btn-primary {
+    margin-right: 20px;
+
+}
+
+.imprimir {
+    background-color: #601fed0c;
+    margin-left: 20px;
+    border-radius: 20px;
+    display: block;
+    width: 70%;
+    border: 1px solid;
+    margin-bottom: 10px;
+}
+
+.botao2 {
+    border: none;
+    border-bottom-left-radius: 20px;
+    height: 30px;
+    background-color: #6950A1;
+    color: white
+}
+
+.titulo {
+    width: 200px;
+    height: 200px;
+}
+
+.titulo1 {
+    float: inline-start;
+
+
+}
+
+.imagem23 {
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+
